@@ -1,4 +1,17 @@
-# app
+# Campus LAN Radio
+
+# About
+
+campus intranet radio based on web streaming, capable of hosting live-streams and pre-recorded audio/video content over our campus intranet.
+
+# Contributers
+
+* Naveen Kumar Bathula
+
+* Suraj Thotakura
+
+* Srinivas K
+
 
 ## Project setup
 ```
